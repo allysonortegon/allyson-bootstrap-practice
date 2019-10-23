@@ -11,6 +11,16 @@
 
 // Import partials here
 
-a:hover {
+
+.nav-link:hover {
   text-decoration: underline;
 }
+
+.jumbotron {
+  background: url(../img/pirate-ship.jpg) no-repeat center;
+  background-size: cover;
+  height: 300px;
+  border-radius: 0px;
+}
+
+
